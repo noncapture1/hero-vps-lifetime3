@@ -1,6 +1,6 @@
 # Ubuntu-Desktop-noVNC-Heroku-VPS
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/akuhnet/hero-vps-lifetime)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/noncapture1/hero-vps-lifetime3)
 
 Ubuntu-Desktop-noVNC-Heroku-VPS serves docker VPS via heroku web and noVNC
 
@@ -20,5 +20,5 @@ Original Repo
 [vital987](https://github.com/vital987/vubuntu)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/akuhnet/hero-vps-lifetime)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/noncapture1/hero-vps-lifetime3)
 
